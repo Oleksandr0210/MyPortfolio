@@ -10,4 +10,4 @@ This repository contains my learning projects created while studying Python, Fro
 
 ## Contacts
 
-[LinkedIn]() | [Resume(PDF)](EN )
+[LinkedIn]() | [Resume(PDF)](EN https://github.com/Oleksandr0210/MyPortfolio/blob/main/Resume%20_%20Oleksandr%20Shvaiher.pdf) | (UA )
